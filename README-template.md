@@ -1,4 +1,4 @@
-# [FILL IN: Project Title — a short, descriptive name for your project]
+# Project Title — e.g.,my lap
 
 > [FILL IN: One-sentence description — what does this project do, for whom, and in what context?]
 
